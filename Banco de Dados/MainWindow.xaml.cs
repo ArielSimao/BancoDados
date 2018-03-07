@@ -45,6 +45,7 @@ namespace Banco_de_Dados
             txtdescricao.Clear();
             txtcusto.Clear();
             txtfornecedor.Clear();
+            txtid.Clear();
             txtdescricao.Focus();
         }
     }
